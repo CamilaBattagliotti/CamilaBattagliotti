@@ -3,7 +3,7 @@
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="40"> Hey! Nice to see you. 
 
-Welcome to my page!  
+Welcome to my page!  ☺️
 
 I'm **Camila**, a QA Tester and Fullstack Developer from **Argentina**, currently living in **Spain**.
 
