@@ -9,7 +9,7 @@ I'm **Camila**, a QA Tester and Fullstack Developer from **Argentina**, currentl
 ---
 
 
-## 🛠️ Technologies I Use 
+### 🛠️ Tech Stack  
 
 #### **Programming Skills**  
 <p align="left">
