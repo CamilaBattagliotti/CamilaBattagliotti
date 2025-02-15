@@ -1,11 +1,10 @@
 
 
-
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="40"> Hey! Nice to see you. 
 
-Welcome to my page!  ☺️
+Welcome to my page!  <img src="https://cdn-icons-png.flaticon.com/128/11349/11349043.png" width="20"/>
 
-I'm **Camila**, a QA Tester and Fullstack Developer from **Argentina**, currently living in **Spain**.
+I'm **Camila**, a QA Tester and Fullstack Developer from **Argentina**, currently living in **Spain** <img src="https://cdn-icons-png.flaticon.com/128/10029/10029464.png" width="20"/>.
 
 ---
 
