@@ -4,7 +4,7 @@
 
 Welcome to my page!  <img src="https://cdn-icons-png.flaticon.com/128/11349/11349043.png" width="20"/>
 
-I'm **Camila**, a QA Tester and Fullstack Developer from **Argentina**, currently living in **Spain** <img src="https://cdn-icons-png.flaticon.com/128/10029/10029464.png" width="20"/>.
+I'm **Camila**, a QA Tester and Fullstack Developer in the making, currently living in **Spain** <img src="https://cdn-icons-png.flaticon.com/128/10029/10029464.png" width="20"/>.
 
 ---
 
@@ -62,7 +62,6 @@ I've lived in:
 - <img src="https://cdn-icons-png.flaticon.com/512/323/323380.png" width="20"/> **Ireland** –Where, between St. Patrick's celebrations and a pint of Guinness, I discovered my passion for technology.
 - <img src="https://cdn-icons-png.flaticon.com/128/13980/13980520.png" width="20"/> **New Zealand** – Explored the stunning landscapes of *The Lord of the Rings*, embraced the passion for rugby with the All Blacks, and experienced a truly unique way of life.  
 - <img src="https://cdn-icons-png.flaticon.com/512/323/323325.png" width="20"/> **Italy** – Enjoyed the rich culture, history, and, of course, the food!
-- <img src="https://cdn-icons-png.flaticon.com/128/13980/13980222.png" width="20"/> **Andorra** – A hidden gem in the Pyrenees, where I experienced mountain life and stunning landscapes.  
 
 ---
 
